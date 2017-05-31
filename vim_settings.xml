@@ -421,11 +421,12 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496270197832">
-        <mark key="[" line="269" column="12" />
-        <mark key="]" line="270" column="9" />
-        <mark key="^" line="270" column="9" />
-        <mark key="." line="270" column="9" />
+      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496271222620">
+        <mark key="'" line="263" column="12" />
+        <mark key="[" line="259" column="36" />
+        <mark key="]" line="261" column="7" />
+        <mark key="." line="261" column="7" />
+        <mark key="^" line="261" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1493316038337">
         <mark key="'" line="30" column="6" />
@@ -516,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="14" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/summary.vue" />
       <jump line="15" column="50" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/summary.vue" />
       <jump line="18" column="19" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/summary.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/hours.vue" />
@@ -616,10 +616,11 @@
       <jump line="255" column="0" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="229" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
       <jump line="176" column="4" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
+      <jump line="261" column="12" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -633,19 +634,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">JHRoaXMtPmJlZw==</text>
+        <text>ion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmaXJzdFB1bmNoID0gJHB1bmNoQ29sbGVjdGlvbi0+Zmlyc3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgJHNwYW5zTXVsdGlwbGVXb3Jrd2Vla3MgPSBmdW5jdGlvbihDb2xsZWN0aW9uICRjb2xsZWN0aW9uKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -788,8 +789,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcHVuY2hlc1R3b1BvaW50TyA9IAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PSBmdW5jdGlvbihDb2xsZWN0aW9uICRjb2xsZWN0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiA=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -802,31 +803,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb2ZvZm9mb29vb2Zvb28KZm9mb29vCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIDIrMiAK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgJHNwYW5zTXVsdGlwbGVXb3Jrd2Vla3MgPSBmdW5jdGlvbihDb2xsZWN0aW9uICRjb2xsZWN0aW9uKSB7CiAgICAgICAgICAgICRjb2xsZWN0aW9uLT4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LT5ncm91cEJ5KCdlbXBsb3llZV9pZCcpCiAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgJHNwYW5zTXVsdGlwbGVXb3Jrd2Vla3MgPSBmdW5jdGlvbihDb2xsZWN0aW9uICRjb2xsZWN0aW9uKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAkcHVuY2hlc1R3b1BvaW50TyA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>help registers</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">JHRoaXMtPmJlZw==</last-search>
+      <last-search>ion</last-search>
       <last-offset />
-      <last-pattern encoding="base64">JHRoaXMtPmJlZw==</last-pattern>
+      <last-pattern>ion</last-pattern>
       <last-replace>'\1'</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVEYXNoYm9hcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -834,7 +835,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scopeForDate</entry>
         <entry>ForDate</entry>
         <entry encoding="base64">XDxiZWdpbm5pbmdPZkN1cnJlbnRQZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50Rm9yRW1wbG95ZWVcPg==</entry>
@@ -854,6 +854,7 @@
         <entry encoding="base64">XDxXb3Jrd2Vla1w+</entry>
         <entry encoding="base64">JHRoaXMtPmJlZ2c=</entry>
         <entry encoding="base64">JHRoaXMtPmJlZw==</entry>
+        <entry>ion</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist EditorToggleShowGutterIcons</entry>
