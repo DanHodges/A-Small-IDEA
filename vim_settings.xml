@@ -421,11 +421,11 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496264684772">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="^" line="252" column="13" />
-        <mark key="." line="259" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496266334912">
+        <mark key="[" line="268" column="10" />
+        <mark key="]" line="269" column="7" />
+        <mark key="." line="269" column="7" />
+        <mark key="^" line="269" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1493316038337">
         <mark key="'" line="30" column="6" />
@@ -618,8 +618,8 @@
       <jump line="176" column="4" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -633,7 +633,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$dayDue</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JHRoaXMtPmJlZw==</text>
@@ -871,10 +871,10 @@
         <entry>256</entry>
         <entry>action VimWindowUp</entry>
         <entry>action CloseEditor</entry>
-        <entry>action VimWindowRight</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action VimWindowRight</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
