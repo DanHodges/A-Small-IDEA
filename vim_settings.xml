@@ -421,11 +421,11 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496269501238">
-        <mark key="[" line="259" column="32" />
-        <mark key="]" line="259" column="35" />
-        <mark key="." line="259" column="35" />
-        <mark key="^" line="259" column="35" />
+      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496270197832">
+        <mark key="[" line="269" column="12" />
+        <mark key="]" line="270" column="9" />
+        <mark key="^" line="270" column="9" />
+        <mark key="." line="270" column="9" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1493316038337">
         <mark key="'" line="30" column="6" />
@@ -618,8 +618,8 @@
       <jump line="176" column="4" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>map</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -642,10 +642,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRmaXJzdFB1bmNoID0gJHB1bmNoQ29sbGVjdGlvbi0+Zmlyc3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb2ZvZm9mb29vb2Zvb28KZm9mb29vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIDIrMiAK</text>
+        <text encoding="base64">CiAgICAgICAgJHNwYW5zTXVsdGlwbGVXb3Jrd2Vla3MgPSBmdW5jdGlvbihDb2xsZWN0aW9uICRjb2xsZWN0aW9uKSB7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -788,8 +788,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcHVuY2hlc1R3b1BvaW50TyA9IAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -801,23 +801,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LT5ncm91cEJ5KCdlbXBsb3llZV9pZCcpCiAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb2ZvZm9mb29vb2Zvb28KZm9mb29vCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIDIrMiAK</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXlEdWUgPSAkZW1wbG95ZWUtPnRpbWVTdWJncm91cCgpLT5kYXlEdWUoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">LT5ncm91cEJ5KCdlbXBsb3llZV9pZCcpCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CgogICAgICAgIHJldHVybiAkZW1wbG95ZWVQdW5jaGVz</text>
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRmb287Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>help registers</text>
