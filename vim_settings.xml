@@ -178,12 +178,12 @@
       <file name="$USER_HOME$/bernieportal/public/sites/all/modules/onboarding/js/onboarding.js" timestamp="1493836529534">
         <mark key="'" line="423" column="4" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Workweek.php" timestamp="1496175479738">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="117" column="5" />
-        <mark key="^" line="128" column="30" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Time/Workweek.php" timestamp="1496262381030">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="78" column="26" />
+        <mark key="^" line="78" column="28" />
+        <mark key="." line="78" column="26" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/booklet.vue" timestamp="1495761355152">
         <mark key="'" line="221" column="12" />
@@ -414,19 +414,18 @@
         <mark key="^" line="5503" column="119" />
         <mark key="." line="5503" column="119" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1496248814997">
-        <mark key="'" line="422" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1496265304227">
+        <mark key="'" line="176" column="4" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="211" column="10" />
+        <mark key="." line="209" column="0" />
         <mark key="^" line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496176988489">
-        <mark key="'" line="131" column="41" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496264684772">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="^" line="252" column="13" />
+        <mark key="." line="259" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1493316038337">
         <mark key="'" line="30" column="6" />
@@ -517,20 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
-      <jump line="155" column="21" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
-      <jump line="189" column="40" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
-      <jump line="190" column="31" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
-      <jump line="147" column="21" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
-      <jump line="138" column="26" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
-      <jump line="24" column="8" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/PeriodsController.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
-      <jump line="221" column="12" filename="$USER_HOME$/bernieportal/resources/assets/components/benefit-booklets/booklet.vue" />
-      <jump line="21" column="22" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BenefitBooklets/BookletsController.php" />
-      <jump line="41" column="21" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BenefitBooklets/BookletsController.php" />
-      <jump line="16" column="22" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BenefitBooklets/BookletsController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/SubgroupsController.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="72" column="14" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/summary.vue" />
       <jump line="15" column="50" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/summary.vue" />
       <jump line="18" column="19" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/summary.vue" />
@@ -541,7 +526,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/summary.vue" />
       <jump line="6" column="13" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/summary.vue" />
-      <jump line="19" column="26" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="48" column="21" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="104" column="43" filename="$USER_HOME$/bernieportal/app/Time/Workweek.php" />
       <jump line="62" column="20" filename="$USER_HOME$/bernieportal/app/Time/Workweek.php" />
@@ -617,10 +601,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" />
       <jump line="404" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" />
       <jump line="422" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
+      <jump line="19" column="4" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/bernieportal/app/Time/Workweek.php" />
+      <jump line="256" column="24" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="52" column="78" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="66" column="15" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="81" column="37" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="106" column="96" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="120" column="15" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="134" column="29" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="209" column="20" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="58" column="18" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="255" column="0" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="229" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
+      <jump line="176" column="4" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -634,19 +633,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRpbWVzaGVldFRyYW5zZm9ybWVyICR0aW1lc2hlZXRUcmFuc2Zvcm1lcik=</text>
+        <text>$dayDue</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text encoding="base64">JHRoaXMtPmJlZw==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXb3Jrd2Vla1RyYW5zZm9ybWVyICR3b3JrV2Vla1RyYW5zZm9ybWVyLAogICAgICAgIFdvcmt3ZWVrUmVwb3NpdG9yeSAkd29ya3dlZWtSZXBvc2l0b3J5LAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JGVtcGxveWVlLT50aW1lU3ViZ3JvdXAoKS0+ZGF5RHVlKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZm9vID0gNDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXlEdWUgPSAkZW1wbG95ZWUtPnRpbWVTdWJncm91cCgpLT5kYXlEdWUoKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -790,7 +789,7 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">CgogICAgICAgIHJldHVybiAkZW1wbG95ZWVQdW5jaGVz</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -803,31 +802,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJ3VybCA6JywgdXJsKTsK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRmb287Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRpbWVzaGVldDEgPSA7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRmb287CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmwgPSB0cnVlID8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZvbzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICcvYXBpL3RpbWUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmwgPSB0cnVlID8KICAgICAgICAgIGAvYXBpL3RpbWUvJHt0aW1lc2hlZXRJZH0vJHtlbXBsb3llZUlkIHx8ICcnfWAgOgogICAgICAgICAgJy9hcGkvdGltZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW1wbG95ZWVUaW1lc2hlZXRzID0gQ29sbGVjdGlvbjo6bWFrZSgpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewoKICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF5RHVlID0gJGVtcGxveWVlLT50aW1lU3ViZ3JvdXAoKS0+ZGF5RHVlKCk7CiAgICAgICAgJHN0YXJ0ID0gJHRoaXMtPmJlZ2lubmluZ09mQ3VycmVudFBlcmlvZCgkZGF5RHVlKTsKICAgICAgICAkaWQgPSAkc3RhcnQtPmNvcHkoKS0+Zm9ybWF0KCdZJykgLiAnVycgLiAkc3RhcnQtPmNvcHkoKS0+Zm9ybWF0KCdXJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PhpListenDebugAction</text>
+        <text>action Refactorings.QuickListPopupAction</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search encoding="base64">JHRoaXMtPmJlZw==</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern encoding="base64">JHRoaXMtPmJlZw==</last-pattern>
       <last-replace>'\1'</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVEYXNoYm9hcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -835,12 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcGlcPg==</entry>
-        <entry encoding="base64">XDxBcGlSZXF1ZXN0XD4=</entry>
-        <entry>timesheet</entry>
-        <entry>.get(</entry>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry encoding="base64">dGVtcGxhdGU+</entry>
         <entry>scopeForDate</entry>
         <entry>ForDate</entry>
         <entry encoding="base64">XDxiZWdpbm5pbmdPZkN1cnJlbnRQZXJpb2RcPg==</entry>
@@ -855,28 +848,34 @@
         <entry>time</entry>
         <entry>EditRequestsController</entry>
         <entry>for</entry>
+        <entry>self</entry>
+        <entry>new static</entry>
+        <entry>pendingFor</entry>
+        <entry encoding="base64">XDxXb3Jrd2Vla1w+</entry>
+        <entry encoding="base64">JHRoaXMtPmJlZ2c=</entry>
+        <entry encoding="base64">JHRoaXMtPmJlZw==</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist folding</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action VimWindowSplitVertical</entry>
-        <entry>actionlist Annotate</entry>
-        <entry>actionlist git</entry>
-        <entry>actionlist annotate</entry>
-        <entry>action AnnotateDiffViewer</entry>
-        <entry>action EditorGutterPopupMenu</entry>
         <entry>action EditorGutterVcsPopupMenu</entry>
         <entry>action gutter</entry>
         <entry>actionlist gutter</entry>
         <entry>actionlist EditorToggleShowGutterIcons</entry>
         <entry>action EditorToggleShowGutterIcons</entry>
         <entry>action Annotate</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
+        <entry>action PhpListenDebugAction</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action VimWindowSplitHorizontal</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimWindowDown</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmYWN0b3JpbmdzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
+        <entry>256</entry>
+        <entry>action VimWindowUp</entry>
+        <entry>action CloseEditor</entry>
         <entry>action VimWindowRight</entry>
         <entry>action VimWindowLeft</entry>
-        <entry>action GotoFile</entry>
-        <entry>action PhpListenDebugAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
