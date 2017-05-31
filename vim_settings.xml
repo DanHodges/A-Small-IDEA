@@ -414,8 +414,8 @@
         <mark key="^" line="5503" column="119" />
         <mark key="." line="5503" column="119" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1496247981460">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1496248814997">
+        <mark key="'" line="422" column="0" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
@@ -517,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="37" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
       <jump line="136" column="8" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
       <jump line="155" column="21" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
       <jump line="189" column="40" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/dashboard.vue" />
@@ -617,6 +616,7 @@
       <jump line="106" column="13" filename="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" />
       <jump line="404" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/timesheet.vue" />
+      <jump line="422" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -821,7 +821,7 @@
         <text encoding="base64">IGVsc2UgewoKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>action VimWindowRight</text>
+        <text>action PhpListenDebugAction</text>
       </register>
     </registers>
     <search>
@@ -857,11 +857,9 @@
         <entry>for</entry>
       </history-search>
       <history-cmd>
-        <entry>EditorToggleShowGutterIcons</entry>
         <entry>actionlist folding</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action VimWindowSplitVertical</entry>
-        <entry>action GotoFile</entry>
         <entry>actionlist Annotate</entry>
         <entry>actionlist git</entry>
         <entry>actionlist annotate</entry>
@@ -875,8 +873,10 @@
         <entry>action Annotate</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
-        <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
+        <entry>action VimWindowLeft</entry>
+        <entry>action GotoFile</entry>
+        <entry>action PhpListenDebugAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
