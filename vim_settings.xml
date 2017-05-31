@@ -421,11 +421,11 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496266334912">
-        <mark key="[" line="268" column="10" />
-        <mark key="]" line="269" column="7" />
-        <mark key="." line="269" column="7" />
-        <mark key="^" line="269" column="7" />
+      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496268167325">
+        <mark key="[" line="256" column="20" />
+        <mark key="]" line="257" column="7" />
+        <mark key="." line="257" column="7" />
+        <mark key="^" line="257" column="7" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1493316038337">
         <mark key="'" line="30" column="6" />
@@ -618,8 +618,8 @@
       <jump line="176" column="4" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb2ZvZm9mb29vb2Zvb28KZm9mb29vCg==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -633,19 +633,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text encoding="base64">LT5ncm91cEJ5KCdlbXBsb3llZV9pZCcp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JHRoaXMtPmJlZw==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGVtcGxveWVlLT50aW1lU3ViZ3JvdXAoKS0+ZGF5RHVlKCk=</text>
+        <text encoding="base64">LT5ncm91cEJ5KCdlbXBsb3llZV9pZCcp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICBmb2ZvZm9mb29vb2Zvb28KZm9mb29vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXlEdWUgPSAkZW1wbG95ZWUtPnRpbWVTdWJncm91cCgpLT5kYXlEdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgIDIrMiAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -789,7 +789,7 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CgogICAgICAgIHJldHVybiAkZW1wbG95ZWVQdW5jaGVz</text>
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -801,26 +801,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRmb287Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LT5ncm91cEJ5KCdlbXBsb3llZV9pZCcpCiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRmb287CiAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZvbzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNldEVtcGxveWVlT25UaW1lc2hlZXQgPSBmdW5jdGlvbiAoVGltZXNoZWV0ICR0aW1lc2hlZXQpIHVzZSAoJHB1bmNoKSB7CiAgICAgICAgICAgICAgICAkdGltZXNoZWV0LT5zZXRFbXBsb3llZSgkcHVuY2gtPmVtcGxveWVlKTsKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXlEdWUgPSAkZW1wbG95ZWUtPnRpbWVTdWJncm91cCgpLT5kYXlEdWUoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1wbG95ZWVUaW1lc2hlZXRzID0gQ29sbGVjdGlvbjo6bWFrZSgpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgogICAgICAgIHJldHVybiAkZW1wbG95ZWVQdW5jaGVz</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF5RHVlID0gJGVtcGxveWVlLT50aW1lU3ViZ3JvdXAoKS0+ZGF5RHVlKCk7CiAgICAgICAgJHN0YXJ0ID0gJHRoaXMtPmJlZ2lubmluZ09mQ3VycmVudFBlcmlvZCgkZGF5RHVlKTsKICAgICAgICAkaWQgPSAkc3RhcnQtPmNvcHkoKS0+Zm9ybWF0KCdZJykgLiAnVycgLiAkc3RhcnQtPmNvcHkoKS0+Zm9ybWF0KCdXJyk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRmb287Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Refactorings.QuickListPopupAction</text>
+        <text>help registers</text>
       </register>
     </registers>
     <search>
@@ -856,9 +856,6 @@
         <entry encoding="base64">JHRoaXMtPmJlZw==</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorGutterVcsPopupMenu</entry>
-        <entry>action gutter</entry>
-        <entry>actionlist gutter</entry>
         <entry>actionlist EditorToggleShowGutterIcons</entry>
         <entry>action EditorToggleShowGutterIcons</entry>
         <entry>action Annotate</entry>
@@ -876,6 +873,9 @@
         <entry>action Back</entry>
         <entry>action VimWindowRight</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>reg a b c</entry>
+        <entry>reg</entry>
+        <entry>help registers</entry>
       </history-cmd>
       <history-expr />
       <history-input />
