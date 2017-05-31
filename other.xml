@@ -1,0 +1,31 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.7.3" last-modified="1490045790000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.7.3/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.9.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.8.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
+</application>
