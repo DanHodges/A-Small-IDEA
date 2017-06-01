@@ -2,6 +2,8 @@
 
 Super minimal IntelliJ/PhpStorm/etc theme.
 
+Instructions- https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html
+
 I really like vim bindings. Here's an example `.ideavimrc` (`.vimrc` equivilent for the ideaVim plugin) if you're into that type of thing. 
 
 ```
