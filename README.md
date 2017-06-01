@@ -1,6 +1,6 @@
 # IDEA
 
-Super minimal IntelliJ/PhpStorm/etc theme.
+Super minimal IntelliJ/PhpStorm/etc settings.
 
 Instructions- https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html
 
