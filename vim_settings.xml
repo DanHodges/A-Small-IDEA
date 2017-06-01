@@ -370,6 +370,10 @@
         <mark key="." line="4" column="108" />
         <mark key="^" line="4" column="108" />
       </file>
+      <file name="$USER_HOME$/bernieportal/app/Http/Session/Store/LaravelSessionFlash.php" timestamp="1496333926448">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="4" />
+      </file>
       <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/EmployeeProfileComposer.php" timestamp="1496173696262">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="41" />
@@ -620,7 +624,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PD9waHAKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmbGFzaCgkbWVzc2FnZSwgJGtleSA9ICdzdGF0dXMnKQogICAgewogICAgICAgICR0aGlzLT5zZXNzaW9uLT5mbGFzaCgka2V5LCAkbWVzc2FnZSk7CiAgICB9Cg==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -640,7 +644,7 @@
         <text>ion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRmaXJzdFB1bmNoID0gJHB1bmNoQ29sbGVjdGlvbi0+Zmlyc3QoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmbGFzaCgkbWVzc2FnZSwgJGtleSA9ICdzdGF0dXMnKQogICAgewogICAgICAgICR0aGlzLT5zZXNzaW9uLT5mbGFzaCgka2V5LCAkbWVzc2FnZSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PD9waHAKCg==</text>
