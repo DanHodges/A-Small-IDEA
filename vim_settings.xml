@@ -13,12 +13,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1495823632251">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1494860479135">
-        <mark key="'" line="4331" column="21" />
-        <mark key="[" line="211" column="12" />
-        <mark key="]" line="211" column="18" />
-        <mark key="^" line="211" column="18" />
-        <mark key="." line="211" column="18" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1496339248387">
+        <mark key="'" line="3517" column="23" />
+        <mark key="[" line="5407" column="29" />
+        <mark key="]" line="5407" column="29" />
+        <mark key="^" line="5407" column="37" />
+        <mark key="." line="5407" column="29" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/TimeModule.php" timestamp="1494362822173">
         <mark key="'" line="68" column="49" />
@@ -353,7 +353,7 @@
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1496178067309">
+      <file name="/PHP Console" timestamp="1496339205327">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BackLinkController.php" timestamp="1492618244557">
@@ -373,10 +373,6 @@
       <file name="$USER_HOME$/bernieportal/app/Http/Session/Store/LaravelSessionFlash.php" timestamp="1496333926448">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="30" column="4" />
-      </file>
-      <file name="$USER_HOME$/bernieportal/app/Views/Composers/Sidebar/EmployeeProfileComposer.php" timestamp="1496173696262">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="41" />
       </file>
       <file name="$USER_HOME$/bernieportal/storage/logs/laravel.log" timestamp="1493311738409">
         <mark key="'" line="0" column="0" />
@@ -435,7 +431,7 @@
       <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1493316038337">
         <mark key="'" line="30" column="6" />
       </file>
-      <file name="/fragment.php" timestamp="1496177766744">
+      <file name="/fragment.php" timestamp="1496338675107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/resources/assets/components/benefit-provider/dashboard.vue" timestamp="1495746188297">
@@ -521,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="18" filename="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/summary.vue" />
       <jump line="6" column="13" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employees/summary.vue" />
@@ -621,10 +616,11 @@
       <jump line="11" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
       <jump line="137" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
       <jump line="254" column="0" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
+      <jump line="3517" column="23" filename="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmbGFzaCgkbWVzc2FnZSwgJGtleSA9ICdzdGF0dXMnKQogICAgewogICAgICAgICR0aGlzLT5zZXNzaW9uLT5mbGFzaCgka2V5LCAkbWVzc2FnZSk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -638,10 +634,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ion</text>
+        <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmbGFzaCgkbWVzc2FnZSwgJGtleSA9ICdzdGF0dXMnKQogICAgewogICAgICAgICR0aGlzLT5zZXNzaW9uLT5mbGFzaCgka2V5LCAkbWVzc2FnZSk7CiAgICB9Cg==</text>
@@ -825,13 +821,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action PhpListenDebugAction</text>
       </register>
     </registers>
     <search>
-      <last-search>ion</last-search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
       <last-offset />
-      <last-pattern>ion</last-pattern>
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
       <last-replace>'\1'</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVEYXNoYm9hcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -839,8 +835,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ForDate</entry>
-        <entry encoding="base64">XDxiZWdpbm5pbmdPZkN1cnJlbnRQZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50Rm9yRW1wbG95ZWVcPg==</entry>
         <entry>beg</entry>
         <entry>last</entry>
@@ -859,19 +853,15 @@
         <entry encoding="base64">JHRoaXMtPmJlZ2c=</entry>
         <entry encoding="base64">JHRoaXMtPmJlZw==</entry>
         <entry>ion</entry>
+        <entry>intitial</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorToggleShowGutterIcons</entry>
-        <entry>action Annotate</entry>
-        <entry>action PhpListenDebugAction</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action VimWindowSplitHorizontal</entry>
         <entry>action VimWindowDown</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmYWN0b3JpbmdzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
         <entry>256</entry>
         <entry>action VimWindowUp</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Back</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>reg a b c</entry>
         <entry>reg</entry>
@@ -881,6 +871,12 @@
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
         <entry>action GotoFile</entry>
+        <entry>set !rnu</entry>
+        <entry>set nornu</entry>
+        <entry>action Back</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action Annotate</entry>
+        <entry>action PhpListenDebugAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
