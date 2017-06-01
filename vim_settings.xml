@@ -414,8 +414,8 @@
         <mark key="^" line="5503" column="119" />
         <mark key="." line="5503" column="119" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1496276694294">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1496330456892">
+        <mark key="'" line="137" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -517,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="50" filename="$USER_HOME$/bernieportal/resources/assets/components/time/employers/hours.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/js/in-and-out.js" />
       <jump line="13" column="18" filename="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" />
@@ -617,6 +616,7 @@
       <jump line="257" column="0" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="257" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
       <jump line="11" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
+      <jump line="137" column="0" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -857,7 +857,6 @@
         <entry>ion</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist EditorToggleShowGutterIcons</entry>
         <entry>action EditorToggleShowGutterIcons</entry>
         <entry>action Annotate</entry>
         <entry>action PhpListenDebugAction</entry>
@@ -873,9 +872,10 @@
         <entry>reg a b c</entry>
         <entry>reg</entry>
         <entry>help registers</entry>
-        <entry>action VimWindowRight</entry>
-        <entry>action VimWindowLeft</entry>
         <entry>action CloseEditor</entry>
+        <entry>action VimWindowSplitVertical</entry>
+        <entry>action VimWindowLeft</entry>
+        <entry>action VimWindowRight</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
