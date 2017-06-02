@@ -14,11 +14,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1496423604526">
-        <mark key="'" line="10755" column="28" />
-        <mark key="[" line="5411" column="32" />
-        <mark key="]" line="5412" column="11" />
-        <mark key="^" line="5412" column="11" />
-        <mark key="." line="5412" column="11" />
+        <mark key="'" line="10751" column="28" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/TimeModule.php" timestamp="1494362822173">
         <mark key="'" line="68" column="49" />
@@ -820,7 +816,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -872,10 +868,10 @@
         <entry>action CloseEditor</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
-        <entry>action GotoFile</entry>
         <entry>5405</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
