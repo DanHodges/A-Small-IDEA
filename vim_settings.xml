@@ -350,7 +350,7 @@
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1496417601907">
+      <file name="/PHP Console" timestamp="1496419100487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BackLinkController.php" timestamp="1492618244557">
@@ -412,7 +412,6 @@
         <mark key="." line="5503" column="119" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Time/Timesheet.php" timestamp="1496417654522">
-        <mark key="'" line="212" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -818,7 +817,7 @@
         <text encoding="base64">ICAgICAgICAgICAgVXNlcjo6ZmluZCgkdXNlci0+dWlkKS0+cHJvZmlsZS0+aXNWYWxpZCgpID8KICAgICAgICAgICAgICAgIGRydXBhbF9nb3RvKCdkb2N1bWVudHNfY29uZmlybScpIDoK</text>
       </register>
       <register name=":" type="4">
-        <text>212</text>
+        <text>action CloseEditor</text>
       </register>
     </registers>
     <search>
@@ -855,7 +854,6 @@
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
-        <entry>action CloseEditor</entry>
         <entry>set !rnu</entry>
         <entry>set nornu</entry>
         <entry>action Annotate</entry>
@@ -874,6 +872,7 @@
         <entry>action VimWindowSplitHorizontal</entry>
         <entry>action GotoFile</entry>
         <entry>212</entry>
+        <entry>action CloseEditor</entry>
       </history-cmd>
       <history-expr />
       <history-input />
