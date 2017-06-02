@@ -13,9 +13,12 @@
       <file name="$USER_HOME$/bernieportal/resources/assets/components/time/summary-table.vue" timestamp="1495823632251">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1496341729545">
-        <mark key="'" line="10751" column="28" />
-        <mark key="^" line="10746" column="27" />
+      <file name="$USER_HOME$/bernieportal/legacy/OnboardingModule.php" timestamp="1496423604526">
+        <mark key="'" line="10755" column="28" />
+        <mark key="[" line="5411" column="32" />
+        <mark key="]" line="5412" column="11" />
+        <mark key="^" line="5412" column="11" />
+        <mark key="." line="5412" column="11" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/TimeModule.php" timestamp="1494362822173">
         <mark key="'" line="68" column="49" />
@@ -350,7 +353,7 @@
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1496419100487">
+      <file name="/PHP Console" timestamp="1496422591567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/BackLinkController.php" timestamp="1492618244557">
@@ -380,7 +383,7 @@
       <file name="$USER_HOME$/bernieportal/app/Api/Transformers/Time/PunchTransformer.php" timestamp="1494514850424">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/EditRequestsController.php" timestamp="1496417619612">
+      <file name="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/EditRequestsController.php" timestamp="1496422375362">
         <mark key="'" line="22" column="29" />
         <mark key="[" line="23" column="25" />
         <mark key="]" line="23" column="25" />
@@ -417,12 +420,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="88" column="11" />
       </file>
-      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496417506621">
+      <file name="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" timestamp="1496423279183">
         <mark key="'" line="96" column="21" />
-        <mark key="[" line="254" column="23" />
-        <mark key="]" line="254" column="33" />
-        <mark key="." line="254" column="33" />
-        <mark key="^" line="254" column="33" />
+        <mark key="[" line="263" column="48" />
+        <mark key="]" line="263" column="62" />
+        <mark key="." line="263" column="62" />
+        <mark key="^" line="263" column="62" />
       </file>
       <file name="$USER_HOME$/bernieportal/legacy/EmployeePortalModule.php" timestamp="1493316038337">
         <mark key="'" line="30" column="6" />
@@ -608,15 +611,15 @@
       <jump line="35" column="4" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="256" column="9" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="264" column="13" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
-      <jump line="96" column="21" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
       <jump line="26" column="38" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/EditRequestsController.php" />
       <jump line="38" column="57" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/EditRequestsController.php" />
       <jump line="18" column="29" filename="$USER_HOME$/bernieportal/app/Http/Controllers/Api/Time/EditRequestsController.php" />
       <jump line="212" column="17" filename="$USER_HOME$/bernieportal/app/Time/Timesheet.php" />
+      <jump line="96" column="21" filename="$USER_HOME$/bernieportal/app/Time/WorkweekRepository.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -630,19 +633,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRFbXBsb3llZU9uVGltZXNoZWV0XD4=</text>
+        <text encoding="base64">XDxiZWdpbm5pbmdPZlBlcmlvZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkd29ya3dlZWtUcmFuc2Zvcm1lcjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KCdlbXBsb3llZV9pZCcpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgJGZpcnN0UHVuY2ggPSAkcHVuY2hlcy0+bWluKCdpbicpOwogICAgICAgICRzdGFydE9mRmlyc3RQdW5jaGVzUGVyaW9kID0gJHRoaXMtPmJlZ2lubmluZ09mUGVyaW9kKCRlbXBsb3llZS0+dGltZVN1Ymdyb3VwKCktPmRheUR1ZSgpKTsKCgogICAgICAgICRmb28gPSBDb2xsZWN0aW9uOjptYWtlKFtdKTsKCgoKICAgICAgICAkcHVuY2hlcy0+ZWFjaChmdW5jdGlvbiAoQ29sbGVjdGlvbiAkcHVuY2hDb2xsZWN0aW9uKSB1c2UgKCRmb28pIHsKICAgICAgICAgICAgJGZpcnN0UHVuY2ggPSAkcHVuY2hDb2xsZWN0aW9uLT5maXJzdCgpOwogICAgICAgICAgICAkbGFzdFB1bmNoID0gJHB1bmNoQ29sbGVjdGlvbi0+bGFzdCgpOwogICAgICAgICAgICBpZiAoJGZpcnN0UHVuY2ggPT09ICRsYXN0UHVuY2gpIHsKICAgICAgICAgICAgICAgICRmb28tPnB1c2goJHB1bmNoQ29sbGVjdGlvbik7CiAgICAgICAgICAgIH0KCiAgICAgICAgfSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJ1cGFsX2dvdG8oJ2VtcGxveWVlL2Rhc2hib2FyZCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -786,7 +789,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJF9TRVNTSU9OWydvbmJvcmRfc3RlcCddID0gc2VsZjo6T05CT0FSRF9DT05GSVJNQVRJT05fU1RFUDsKICAgICAgICAgICAgZHJ1cGFsX2dvdG8oImRvY3VtZW50c19jb25maXJtIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHB1bmNoZXMtPm1hcCgkY3JlYXRlV29ya3dlZWspOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -799,31 +802,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KCdlbXBsb3llZV9pZCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISRkb2N1bWVudHNfZm91bmQgJiYgVXNlcjo6ZmluZCgkdXNlci0+dWlkKS0+cHJvZmlsZS0+aXNWYWxpZCgpKSB7CiAgICAgICAgICAgICRfU0VTU0lPTlsnb25ib3JkX3N0ZXAnXSA9IHNlbGY6Ok9OQk9BUkRfQ09ORklSTUFUSU9OX1NURVA7CiAgICAgICAgICAgIGRydXBhbF9nb3RvKCJkb2N1bWVudHNfY29uZmlybSIpOwogICAgICAgICR1c2VyID0gJHRoaXMtPnVzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJ1cGFsX2dvdG8oJ2VtcGxveWVlL2Rhc2hib2FyZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJF9TRVNTSU9OWydvbmJvcmRfc3RlcCddID0gc2VsZjo6T05CT0FSRF9DT05GSVJNQVRJT05fU1RFUDsKICAgICAgICAgICAgZHJ1cGFsX2dvdG8oImRvY3VtZW50c19jb25maXJtIik7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KICAgICAgICAgICAgICAgIGRydXBhbF9nb3RvKCd2ZXJpZnlfaW5mbycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISRkb2N1bWVudHNfZm91bmQgJiYgVXNlcjo6ZmluZCgkdXNlci0+dWlkKS0+cHJvZmlsZS0+aXNWYWxpZCgpKSB7CiAgICAgICAgICAgICRfU0VTU0lPTlsnb25ib3JkX3N0ZXAnXSA9IHNlbGY6Ok9OQk9BUkRfQ09ORklSTUFUSU9OX1NURVA7CiAgICAgICAgICAgIGRydXBhbF9nb3RvKCJkb2N1bWVudHNfY29uZmlybSIpOwogICAgICAgICR1c2VyID0gJHRoaXMtPnVzZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlcjo6ZmluZCgkdXNlci0+dWlkKS0+cHJvZmlsZS0+aXNWYWxpZCgpID8KICAgICAgICAgICAgICAgIGRydXBhbF9nb3RvKCdkb2N1bWVudHNfY29uZmlybScpIDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseEditor</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRFbXBsb3llZU9uVGltZXNoZWV0XD4=</last-search>
+      <last-search encoding="base64">XDxiZWdpbm5pbmdPZlBlcmlvZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRFbXBsb3llZU9uVGltZXNoZWV0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiZWdpbm5pbmdPZlBlcmlvZFw+</last-pattern>
       <last-replace>'\1'</last-replace>
       <last-substitute encoding="base64">XDx1cGRhdGVEYXNoYm9hcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -848,31 +851,31 @@
         <entry>this</entry>
         <entry>pendingForA</entry>
         <entry encoding="base64">XDxmaXJzdFB1bmNoXD4=</entry>
-        <entry encoding="base64">XDxiZWdpbm5pbmdPZlBlcmlvZFw+</entry>
         <entry encoding="base64">XDx3b3JrV2Vla1RyYW5zZm9ybWVyXD4=</entry>
         <entry encoding="base64">XDxzZXRFbXBsb3llZU9uVGltZXNoZWV0XD4=</entry>
+        <entry encoding="base64">XDxiZWdpbm5pbmdPZlBlcmlvZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>help registers</entry>
         <entry>set !rnu</entry>
         <entry>set nornu</entry>
         <entry>action Annotate</entry>
         <entry>reg</entry>
         <entry>if (!documents</entry>
-        <entry>action Back</entry>
         <entry>action PhpListenDebugAction</entry>
         <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmYWN0b3JpbmdzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action VimWindowSplitVertical</entry>
-        <entry>action VimWindowRight</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVmltV2luZG93TGVmdA==</entry>
-        <entry>action VimWindowLeft</entry>
         <entry>action VimWindowSplitHorizontal</entry>
-        <entry>action GotoFile</entry>
         <entry>212</entry>
         <entry>action CloseEditor</entry>
+        <entry>action VimWindowLeft</entry>
+        <entry>action VimWindowRight</entry>
+        <entry>action GotoFile</entry>
+        <entry>5405</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
