@@ -9,5 +9,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="SBT.system.in.process" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
