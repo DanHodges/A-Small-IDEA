@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ToggleDistractionFreeMode">
+        <abbreviation name="dfm" />
+      </action>
+      <action id="MainMenu">
+        <abbreviation name="dfm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
