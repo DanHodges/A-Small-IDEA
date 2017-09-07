@@ -2,7 +2,7 @@
   <tool name="Prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="./node_modules/.bin/prettier" />
-      <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot" />
+      <option name="PARAMETERS" value="$FilePath$ --write" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
