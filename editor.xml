@@ -19,6 +19,7 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
     <option name="showCssColorPreviewInGutter" value="false" />
   </component>
 </application>

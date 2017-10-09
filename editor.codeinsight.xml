@@ -9,7 +9,6 @@
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
-    <option name="SMART_INDENT_ON_ENTER" value="false" />
     <option name="JAVADOC_STUB_ON_ENTER" value="false" />
     <option name="SMART_END_ACTION" value="false" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
