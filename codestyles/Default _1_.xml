@@ -14,6 +14,9 @@
   </option>
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
