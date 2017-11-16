@@ -1,0 +1,25 @@
+<templateSet group="JavaScript">
+  <template name="scs" value="${({ $prop$ }) =&gt; $prop$ &amp;&amp; `$style$;`};" description="styled component short circuit" toReformat="false" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="style" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sct" value="${({ $prop$ }) =&gt; $prop$ ? `$then$;` : `$else$;`}; " description="styled component ternary" toReformat="false" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="then" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="else" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sc" value="const $var$ = styled.$element$`&#10;  $styles$&#10;`;" description="styled component" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="element" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="styles" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
