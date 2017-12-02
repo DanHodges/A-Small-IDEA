@@ -77,11 +77,11 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--fix" />
+      <option name="arguments" value="$FilePath$ --fix" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="*" />
+      <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="eslint fix" />
       <option name="output" value="" />
@@ -90,7 +90,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/code/AOC/node_modules/.bin/eslint" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="Changed Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
