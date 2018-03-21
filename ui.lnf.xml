@@ -4,9 +4,7 @@
   </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
-    <option name="FONT_FACE" value=".SF NS Text" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
