@@ -6,10 +6,10 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Prettier Directories" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Prettier Directories" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="./node_modules/.bin/prettier" />
-      <option name="PARAMETERS" value="--write [other opts] $FileDirRelativeToProjectRoot$/**/src/client/js/app(*.js|*.jsx)" />
+      <option name="PARAMETERS" value="$FileDirRelativeToProjectRoot$(*.js) --write" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
