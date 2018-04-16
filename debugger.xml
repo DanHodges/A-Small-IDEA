@@ -71,7 +71,7 @@
     </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration captureAsyncStackTraces="false">
+        <configuration>
           <custom-object-presentation />
           <stepping-filters>
             <stepping-filter url-pattern="*fastopt.js" />
