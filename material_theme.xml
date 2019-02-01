@@ -1,6 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
-    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="1356f2d6:168ab1bcb2a:-7fff" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
