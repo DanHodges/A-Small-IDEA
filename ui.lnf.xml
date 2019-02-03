@@ -7,11 +7,11 @@
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="FONT_SCALE" value="1.0" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="835" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
