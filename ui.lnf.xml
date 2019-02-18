@@ -9,6 +9,7 @@
     <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="835" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
