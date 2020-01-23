@@ -5,7 +5,6 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="JAVADOC_INFO_DELAY" value="500" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
