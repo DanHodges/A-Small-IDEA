@@ -36,6 +36,9 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
   </component>
