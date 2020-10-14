@@ -6,10 +6,8 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="SBT.system.in.process" value="true" />
     <entry key="bigger.font.in.project.view" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
-    <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
     <entry key="mac.editor.thumb.default.alpha.delta" value="102" />
@@ -20,6 +18,7 @@
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
