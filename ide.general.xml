@@ -19,7 +19,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
-    <entry key="compiler.process.jdk" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
