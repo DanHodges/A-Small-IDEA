@@ -1095,8 +1095,8 @@
         <entry key="*.routes">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.github.tomasmilata.intelliroutes" />
-              <option name="myPluginName" value="Play 2 Routes" />
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -1817,8 +1817,8 @@
         <entry key="routes">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.github.tomasmilata.intelliroutes" />
-              <option name="myPluginName" value="Play 2 Routes" />
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
