@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'epublican-view-root'" />
-    <option name="defaultScopeName" value="Module 'epublican-view-root'" />
-    <option name="SEARCH_SCOPE" value="Module 'epublican-view-root'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scala" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
